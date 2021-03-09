@@ -1,0 +1,7 @@
+{
+  "name": "leftoutcode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
